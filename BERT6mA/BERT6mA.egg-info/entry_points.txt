@@ -1,0 +1,3 @@
+[console_scripts]
+bert6mA = predict.testing_w2v:main
+

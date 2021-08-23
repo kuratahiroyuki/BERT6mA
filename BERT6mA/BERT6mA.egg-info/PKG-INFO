@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: BERT6mA
+Version: 0.0.1
+Summary: This package called BERT6mA is used to predict 6mA sites
+Home-page: UNKNOWN
+Author: Kyushu institute of technology. Kurata laboratory.
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.8.0
+Classifier: License :: Apache License 2.0
