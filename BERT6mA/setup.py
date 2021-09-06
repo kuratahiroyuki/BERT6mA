@@ -31,7 +31,7 @@ if __name__ == "__main__":
         install_requires = _requires_from_file('requirements.txt'),
         packages = ["predict", "deep_model", "w2v_model"],
         package_data = {
-            'deep_model': ['6mA_A.thaliana/deep_model', '6mA_C.elegans/deep_model', '6mA_C.equisetifolia/deep_model', '6mA_D.melanogaster/deep_model', '6mA_F.vesca/deep_model', '6mA_H.sapiens/deep_model', '6mA_R.chinensis/deep_model', '6mA_S.cerevisiae/deep_model', '6mA_T.thermophile/deep_model', '6mA_Ts.SUP5-1/deep_model', '6mA_Xoc.BLS256/deep_model'],
+            'deep_model': ['6mA_A.thaliana/deep_model', '6mA_C.elegans/deep_model', '6mA_C.equisetifolia/deep_model', '6mA_D.melanogaster/deep_model', '6mA_F.vesca/deep_model', '6mA_H.sapiens/deep_model', '6mA_R.chinensis/deep_model', '6mA_S.cerevisiae/deep_model', '6mA_T.thermophile/deep_model', '6mA_Ts.SUP5-1/deep_model', '6mA_Xoc.BLS256/deep_model', '6mA_R.chinensis++/deep_model'],
             'w2v_model': ['dna_w2v_100.pt'],
         },
         entry_points={

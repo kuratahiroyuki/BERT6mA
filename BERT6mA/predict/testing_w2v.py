@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Feb 28 18:02:24 2021
 
-@author: kurata
-"""
 
 import sys
 import os
@@ -117,7 +111,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('-i', '--input_file', help='path of input file', required=True)
     parser.add_argument('-o', '--out_dir', help='path of output directory', required=True)
-    parser.add_argument("-sp", "--species", required=True, choices=['A.thaliana','C.elegans', 'C.equisetifolia', 'D.melanogaster', 'F.vesca', 'H.sapiens', 'R.chinensis', 'S.cerevisiae', 'T.thermophile', 'Ts.SUP5-1', 'Xoc.BLS256'], help="species for prediction of 6mA")
+    parser.add_argument("-sp", "--species", required=True, choices=['A.thaliana','C.elegans', 'C.equisetifolia', 'D.melanogaster', 'F.vesca', 'H.sapiens', 'R.chinensis', 'S.cerevisiae', 'T.thermophile', 'Ts.SUP5-1', 'Xoc.BLS256', 'R.chinensis++'], help="species for prediction of 6mA")
     parser.add_argument('-threshold', '--threshold', help='threshold to determine whether 6mA or non-6mA', default = 0.5)
     parser.add_argument("-batch", "--batch_size", action="store", dest='batch_size', default=64, type=int, help="batch size")
 

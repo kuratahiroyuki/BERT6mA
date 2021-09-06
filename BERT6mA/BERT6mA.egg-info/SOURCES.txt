@@ -15,6 +15,7 @@ deep_model/6mA_D.melanogaster/deep_model
 deep_model/6mA_F.vesca/deep_model
 deep_model/6mA_H.sapiens/deep_model
 deep_model/6mA_R.chinensis/deep_model
+deep_model/6mA_R.chinensis++/deep_model
 deep_model/6mA_S.cerevisiae/deep_model
 deep_model/6mA_T.thermophile/deep_model
 deep_model/6mA_Ts.SUP5-1/deep_model
