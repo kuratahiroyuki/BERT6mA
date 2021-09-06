@@ -44,7 +44,7 @@ Specify the species from among the following:
 |trained by F. vesca|F.vesca|
 |trained by H. sapiens|H.sapiens|
 |trained by R. chinensis|R.chinensis|
-|finetuned by R. chinensis pre-trained by F. vesca|R.chinensis++|
+|finetuned by R. chinensis and pre-trained by F. vesca|R.chinensis++|
 |trained by S. cerevisiae|S.cerevisiae|
 |trained by T. thermophile|T.thermophile|
 |trained by Ts. SUP5-1|Ts.SUP5-1|
