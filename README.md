@@ -2,8 +2,8 @@
 This package is used for prediction of 6mA sites.
 
 # features
-・BERT6mA provides predictions of 6mA sites for 11 species.
-・In addition to the predictions, BERT6mA serves the attention weights generated during the prediction.
+・BERT6mA provides predictions of 6mA sites for 11 species.  
+・In addition to the predictions, BERT6mA serves the attention weights generated during the prediction.  
 
 # environment
     python   : 3.7.9
